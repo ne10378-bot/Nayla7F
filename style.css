@@ -5,10 +5,15 @@ body {
 
 /* Style for all paragraphs */
 p {
-    color: darkgreen;
+    color: Black;
     font-size: 16px;
-    font-family: 'Times New Roman', serif;
+    font-family: 'kenta', serif;
 }
+
+h3 {
+    color: #FF6347;
+    font-size: 20px;
+    font-family: 'silver garden', serif;
 
 /* Style for the main heading */
 h1 {
